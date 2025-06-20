@@ -3,10 +3,10 @@
 This is the group project of my leadership, written using Python. It provides useful information and insights of Pokémon. 
 
 ## Producers  
-**Xin HE**, leader of the group, responsible for product design, UI design, data analysis and functions implementation  
-**Manlin ZHAO**, responsible for UI Design and Damage Calculator Function  
-**Zhibo FENG**, resibonsible for the first version's implementation  
-Houze HE, Zisen Feng, Lianghao GONG  
+**Xin HE**, leader of the group, responsible for product design, UI design, data analysis and functions implementation.   
+**Manlin ZHAO**, responsible for UI Design and Damage Calculator Function.   
+**Zhibo FENG**, resibonsible for the first version's implementation.   
+And **Co-Producers** **Houze HE**, **Zisen Feng**, Lianghao GONG.   
 
 ## Project Overview  
 ### Introduction
